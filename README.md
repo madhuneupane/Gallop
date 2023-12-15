@@ -8,9 +8,6 @@ For a better outcome, please make sure you did all the environment setup before 
 
 All of the following commands have to be executed inside the folder where you want your project to be located.
 
-## BEFORE CLONING THE REPO
-
-**Note:** Marina had some problems in creating a separate folder and copying the node_modules folder, so you can clone the repo and create the project, after this you’ll need to drag the folders node_modules, public, and both packages.json - this will probably be the easiest way to do it.
 
 ### 1 - To CREATE React app
 
